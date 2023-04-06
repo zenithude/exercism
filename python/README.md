@@ -16,6 +16,7 @@ Tous les dossiers :
 - [card-games](./card-games/)
 - [cater-waiter](./cater-waiter/)
 - [chaitanas-colossal-coaster](./chaitanas-colossal-coaster/)
+- [collatz-conjecture](./collatz-conjecture)
 - [currency-exchange](./currency-exchange/)
 - [darts](./darts/)
 - [difference-of-squares](./difference-of-squares/)
@@ -45,7 +46,8 @@ Tous les dossiers :
 - [reverse-string](./reverse-string)
 - [rna-transcription](./rna-transcription)
 - [space-age](./space-age/)
+- [secret-handshake](./secret-handshake)
 - [sum-of-multiples](./sum-of-multiples/)
 - [tisbury-treasure-hunt](./tisbury-treasure-hunt/)
 - [two-fer](./two-fer/)
-
+- [wordy](./wordy/)
