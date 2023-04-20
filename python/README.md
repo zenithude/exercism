@@ -46,6 +46,7 @@ Tous les dossiers :
 - [making-the-grade](./making-the-grade/)
 - [matching-brackets](./matching-brackets/)
 - [meltdown-mitigation](./meltdown-mitigation/)
+- [nth-prime](./nth-prime/)
 - [pangram](./pangram/)
 - [perfect-numbers](./perfect-numbers/)
 - [pig-latin](./pig-latin/)
